@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Justin Laforce, and I'm a software developer always looking to improve!
+My name is Justin Laforce, and I'm a junior software developer that's looking to kickstart his career! Feel free to take a look at some of my work!
 
 
 ## About Me
